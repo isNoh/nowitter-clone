@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nowitter-clone/static/css/main.fb3ef2b1.css",
+    "main.js": "/nowitter-clone/static/js/main.aeafb35d.js",
+    "index.html": "/nowitter-clone/index.html",
+    "main.fb3ef2b1.css.map": "/nowitter-clone/static/css/main.fb3ef2b1.css.map",
+    "main.aeafb35d.js.map": "/nowitter-clone/static/js/main.aeafb35d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3ef2b1.css",
+    "static/js/main.aeafb35d.js"
+  ]
+}
