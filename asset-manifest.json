@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nowitter-clone/static/css/main.7879a3c3.css",
-    "main.js": "/nowitter-clone/static/js/main.4e6a0f18.js",
+    "main.css": "/nowitter-clone/static/css/main.0aa32ef4.css",
+    "main.js": "/nowitter-clone/static/js/main.fa6d961a.js",
     "index.html": "/nowitter-clone/index.html",
-    "main.7879a3c3.css.map": "/nowitter-clone/static/css/main.7879a3c3.css.map",
-    "main.4e6a0f18.js.map": "/nowitter-clone/static/js/main.4e6a0f18.js.map"
+    "main.0aa32ef4.css.map": "/nowitter-clone/static/css/main.0aa32ef4.css.map",
+    "main.fa6d961a.js.map": "/nowitter-clone/static/js/main.fa6d961a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7879a3c3.css",
-    "static/js/main.4e6a0f18.js"
+    "static/css/main.0aa32ef4.css",
+    "static/js/main.fa6d961a.js"
   ]
 }
